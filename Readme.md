@@ -8,14 +8,8 @@ Open phpmyadmin
 Create Database carrental
 Import database carrental.sql (available SQL File Folder inside zip package)
 
-For User
-Open Your browser put inside browser “http://localhost/carrental”
-Login Details for user:
-Username : test@gmail.com
-Password: Test@123
+## Copyright
 
-For Admin Panel
-Open Your browser put inside browser “http://localhost/carrental/admin”
-Login Details for admin :
-Username: admin
-Password: Test@12345
+This project is protected by copyright law and may not be redistributed or modified without the explicit consent of the project maintainer.
+
+For any questions or inquiries regarding the use of this project, please contact the project maintainer.
