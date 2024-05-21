@@ -52,3 +52,5 @@ Import database carrental.sql (available SQL File Folder inside zip package)
 This project is protected by copyright law and may not be redistributed or modified without the explicit consent of the project maintainer.
 
 For any questions or inquiries regarding the use of this project, please contact the project maintainer.
+- [Linkedin](https://www.linkedin.com/in/loganathan26/)
+- [Gmail](logusivam26@gmail.com)
